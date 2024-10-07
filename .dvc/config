@@ -1,2 +1,5 @@
 [core]
     autostage = true
+    remote = data
+['remote "data"']
+    url = gs://mlops-bucket-montasell/dvcstore
