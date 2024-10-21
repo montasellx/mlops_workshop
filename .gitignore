@@ -11,3 +11,6 @@ dvc_plots
 
 # DVC will add new files after this line
 /model
+
+# Label Studio
+extra-data/
